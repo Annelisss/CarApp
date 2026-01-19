@@ -1,3 +1,5 @@
 CarApp/.vs/
 CarApp/CarApp.Web/obj/
 CarApp/CarApp.Core/obj/
+CarApp/CarApp.ApplicationServices/obj/
+CarApp/CarApp.Data/obj/
