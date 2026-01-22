@@ -3,3 +3,10 @@ CarApp/CarApp.Web/obj/
 CarApp/CarApp.Core/obj/
 CarApp/CarApp.ApplicationServices/obj/
 CarApp/CarApp.Data/obj/
+CarApp/CarApp.ApplicationServices/bin/
+CarApp/CarApp.Core/bin/
+CarApp/CarApp.Data/bin/Debug/
+CarApp/CarApp.Web/bin/Debug/net8.0/tr/
+CarApp/CarApp.Web/bin/Debug/
+*.csproj.user
+
