@@ -10,3 +10,5 @@ CarApp/CarApp.Web/bin/Debug/net8.0/tr/
 CarApp/CarApp.Web/bin/Debug/
 *.csproj.user
 
+CarApp/CarApp.CarTests/bin/Debug/
+CarApp/CarApp.CarTests/obj/
